@@ -19,6 +19,8 @@
         android:layout_width="300dp"
         android:layout_height="wrap_content"
         android:indeterminate="true"
+        app:trackCornerRadius="40dp"
+        app:trackThickness="8dp"
         android:layout_gravity="center_horizontal"/>
 
 </LinearLayout>
